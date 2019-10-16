@@ -1,2 +1,3 @@
 # best-repo-ever
-merge conflict
+merge conflict branch2
+
